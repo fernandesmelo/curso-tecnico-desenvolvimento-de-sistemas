@@ -4,6 +4,8 @@ Aqui guardo todos os exercícios que fiz em diversas linguagens ao decorrer do c
 
 O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.linkedin.com/in/ete-porto-digital-0645021a2/)
 
+![1649783773359](https://github.com/fernandesmelo/curso-tecnico-desenvolvimento-de-sistemas/assets/113717317/ebc76ecd-876e-44f7-b1e1-1b135ee5c53c)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você tenha uma cópia dos exercícios em execução na sua máquina local.
