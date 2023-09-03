@@ -2,6 +2,8 @@
 
 Aqui guardo todos os exercícios que fiz em diversas linguagens ao decorrer do curso.
 
+O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.linkedin.com/in/ete-porto-digital-0645021a2/)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você tenha uma cópia dos exercícios em execução na sua máquina local.
