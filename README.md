@@ -50,6 +50,6 @@ Próximos passos...
 
 ## ✒️ Autor
 
-* **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes-desenvolvedor-web-front-end/)
+* **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
 
 
