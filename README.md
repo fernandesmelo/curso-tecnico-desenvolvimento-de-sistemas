@@ -7,14 +7,13 @@ O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.link
 ![1649783773359](https://github.com/fernandesmelo/curso-tecnico-desenvolvimento-de-sistemas/assets/113717317/ebc76ecd-876e-44f7-b1e1-1b135ee5c53c)
 
 ## 🚀 Começando
+Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
+### 📋 Pré-requisitos
 Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 * [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
 * [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
-
-### 📋 Pré-requisitos
-
-Você precisa ter instalado  no seu sistema operacional o VSCode para ter acesso aos códigos. 
+  
 ### 🔧 Instalação
 
 1. Clone este repositório para o seu computador.
