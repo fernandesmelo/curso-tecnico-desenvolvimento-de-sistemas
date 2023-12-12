@@ -8,7 +8,9 @@ O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.link
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você tenha uma cópia dos exercícios em execução na sua máquina local.
+Antes de começar, certifique-se de ter instalado em seu sistema operacional:
+* [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
+* [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
 
 ### 📋 Pré-requisitos
 
