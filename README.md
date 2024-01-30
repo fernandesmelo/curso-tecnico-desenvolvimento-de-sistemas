@@ -25,7 +25,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * Após selecionar a pasta, ela será aberta no VSCode.
    * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
    * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
-   * Abra o arquivo index.html em um navegador web.
 
 ### 🎉 Parabéns!
 Agora você tem os arquivos HTML, CSS, JavaScript, Python e Java instalado e rodando localmente. Bom desenvolvimento!
