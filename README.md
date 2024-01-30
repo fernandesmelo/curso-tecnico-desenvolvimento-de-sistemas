@@ -10,20 +10,25 @@ O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.link
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
+
 Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 * [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
 * [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
-  
-### 🔧 Instalação
 
-1. Clone este repositório para o seu computador.
-2. Abra o Visual Studio Code.
-3. Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
-4. Selecione "Abrir Pasta" (ou "Open Folder").
-5. Após selecionar a pasta, ela será aberta no VSCode.
-6. Você verá a estrutura de pastas e arquivos dos exercícos no painel lateral esquerdo.
+1. Clone este repositório:
+   <br>
+   ```git clone https://github.com/fernandesmelo/criacao-de-layout.git```
 
-A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
+2. Abra o Visual Studio Code:
+   * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
+   * Selecione "Abrir Pasta" (ou "Open Folder").
+   * Após selecionar a pasta, ela será aberta no VSCode.
+   * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
+   * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
+   * Abra o arquivo index.html em um navegador web.
+
+### 🎉 Parabéns!
+Agora você tem os arquivos HTML, CSS, JavaScript, Python e Java instalado e rodando localmente. Bom desenvolvimento!
 
 ## ⚙️ Executando os Testes
 
