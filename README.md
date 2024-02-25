@@ -1,6 +1,6 @@
 # Curso Técnico Desenvolvimento de Sistemas 
 
-Aqui guardo todos os exercícios que fiz em diversas linguagens ao decorrer do curso.
+Aqui guardo todos os exercícios que fiz em diversas tecnologias ao decorrer do curso.
 
 O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.linkedin.com/in/ete-porto-digital-0645021a2/).
 
