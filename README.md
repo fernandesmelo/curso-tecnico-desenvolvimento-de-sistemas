@@ -29,10 +29,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem os arquivos HTML, CSS, JavaScript, Python e Java instalado e rodando localmente. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-
-Próximos passos...
-
 ## 🛠️ Exercícios com
 
 <div style="display: inline-block"><br/>
@@ -57,4 +53,6 @@ Próximos passos...
 
 * **Laércio Fernandes** - [LinkedIn](https://www.linkedin.com/in/laercio-fernandes/)
 
+## ⚙️ Executando os Testes
+Próximos passos...
 
