@@ -6,29 +6,6 @@ O mesmo fiz na [Escola Técnica Estadual Porto Digital - ETEPD](https://www.link
 
 ![1649783773359](https://github.com/fernandesmelo/curso-tecnico-desenvolvimento-de-sistemas/assets/113717317/ebc76ecd-876e-44f7-b1e1-1b135ee5c53c)
 
-## 🚀 Começando
-Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
-
-### 📋 Pré-requisitos
-
-Antes de começar, certifique-se de ter instalado em seu sistema operacional:
-* [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
-* [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
-
-1. Clone este repositório:
-   <br>
-   ```https://github.com/fernandesmelo/curso-tecnico-desenvolvimento-de-sistemas.git```
-
-2. Abra o Visual Studio Code:
-   * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
-   * Selecione "Abrir Pasta" (ou "Open Folder").
-   * Após selecionar a pasta, ela será aberta no VSCode.
-   * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
-   * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
-
-### 🎉 Parabéns!
-Agora você tem os arquivos HTML, CSS, JavaScript, Python e Java instalado e rodando localmente. Bom desenvolvimento!
-
 ## 🛠️ Exercícios com
 
 <div style="display: inline-block"><br/>
